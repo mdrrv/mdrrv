@@ -1,79 +1,70 @@
-# Vinicius · Data Intelligence & AI Products
+# 🚀 Vinicius | Data Intelligence & AI Products
 
-> *"Invicto."* — Building things that matter, with data as the foundation.
+> **"Invicto."** — Turning noise into strategy, and data into market-ready products.
 
----
-
-## 👤 Who I am
-
-Data Intelligence Manager & Tech Lead based in **Curitiba, PR 🇧🇷**.  
-I operate at the intersection of **data engineering, LLMOps, and product thinking** — scaling teams, maturing data cultures, and building AI-native products aimed at real market problems.
-
-My superpower? **Discovery** — finding and creating opportunities where others see noise.
+Based in **Curitiba, PR 🇧🇷**, I operate at the intersection of **Data Engineering, LLMOps, and Product Thinking**. My focus is leading high-performance teams and building AI architectures that don’t just work—they scale businesses.
 
 ---
 
-## 🚀 Current Ventures
+## 🧠 Core Expertise
 
-### 🗣️ [Dialoga AI](https://github.com/)
-> *B2B SaaS · Conversational Climate Surveys powered by AI*
+My work is driven by technical maturity paired with an executive mindset:
 
-Replacing static employee surveys with empathetic AI-driven conversations.  
-An agent named **Laura** conducts interviews, performs sentiment analysis, and feeds a real-time BI dashboard.
-
-- **Stack:** Django · Django Ninja API · Next.js · Gemini
-- **Status:** MVP technically mature — GTM execution in progress
+* **Data Strategy & Leadership:** Implementing Data-Driven cultures from scratch, scaling teams (Servant Leadership), and establishing data governance.
+* **AI Product Engineering:** Developing AI-native products beyond simple API wrappers—specializing in **LLMOps, RAG (Retrieval-Augmented Generation)**, and real-time sentiment analysis.
+* **Modern Data Stack:** Evolving legacy architectures into modern ecosystems using Data Mesh, containerization, and robust orchestration.
+* **Discovery & GTM:** Technical validation of products before the first line of code, ensuring *product-market fit*.
 
 ---
 
-### 📊 ShelfRay
-> *Retail Media Intelligence · Marketplace Audit Tool*
+## 🛠️ Tech Ecosystem
 
-Audits cannibalization between paid media and organic **Share of Search** on Amazon and Mercado Livre.
+I select my stack based on efficiency and delivery power, not hype:
 
-- **Stack:** FastAPI · Scrapy · pgvector · Streamlit
-- **Status:** Early-stage — positioned as high-ticket tech-enabled consulting
-
----
-
-## 🛠️ Tech Stack
-
-```
-Languages      Python · SQL · JavaScript / TypeScript
-Frameworks     Django · FastAPI · Next.js · Streamlit
-Data & AI      LLMOps · Data Mesh · pgvector · Pinecone · Gemini API · Anthropic API
-Infra & Tools  Airflow · PostgreSQL · Docker · GitLab · Power BI
-```
+| Category | Key Technologies |
+| :--- | :--- |
+| **Languages & Logic** | Python (Expert), SQL, TypeScript. |
+| **Frameworks & Web** | Django (Ninja API), FastAPI, Next.js. |
+| **Data & AI** | LLMOps, RAG Pipelines, pgvector, Pinecone, Gemini/Anthropic APIs. |
+| **Infrastructure** | Airflow, Docker, PostgreSQL, GitLab CI/CD, SAP Integrations. |
+| **Analytics** | Power BI (Advanced DAX), Market Basket Analysis, ML for Cross-selling. |
 
 ---
 
-## 📐 How I work
+## 🏗️ Featured Ventures & Architecture
 
-- **Servant leadership** — I scale people before I scale systems
-- **Practical Stoicism** — bias for action, resilience under uncertainty
-- **Data-driven GTM** — I validate before I build
-- **Discovery-first** — strategy before syntax
+### **Dialoga AI** (B2B SaaS)
+*Conversational Climate Surveys*
+* **The Problem:** Static surveys result in low engagement and superficial data.
+* **The Solution:** An AI agent (**Laura**) that conducts empathetic interviews via voice/text.
+* **Technical Highlight:** LLM orchestration for real-time sentiment analysis and automated executive dashboards.
 
----
-
-## 📈 Background
-
-- Scaled a data team from scratch at **market4u**
-- Built data infrastructure on SAP integrations, Airflow DAGs, and PostgreSQL/MySQL environments
-- Developed ML models for customer purchase pattern analysis (market basket / cross-sell)
-- Experience with DAX/Power BI, Oracle 23ai vector storage, and conversational AI pipelines
+### **ShelfRay** (Retail Intelligence)
+*Marketplace Audit Tool*
+* **The Problem:** Invisible cannibalization between paid media and organic results on Amazon/Mercado Livre.
+* **The Solution:** Share of Search tooling and Retail Media auditing.
+* **Technical Highlight:** Large-scale Web Scraping with Scrapy and vector search for assortment comparison.
 
 ---
 
-## 🎯 Current Focus
+## 📈 Impact & Evolution
 
-Building toward **financial and professional autonomy** through product ownership.  
-Target: exit the traditional corporate market by **January 2027**.
+* **market4u (Largest Micro-franchise in Latin America):** Led the structuring of the data department from the ground up during a hyper-growth phase. **Played a key role in scaling monthly revenue from R$ 20M to R$ 35M in 12 months** by designing a robust BI infrastructure and predictive models that optimized operations and expansion.
+* **Modernization:** Migrated manual workflows to automated Airflow DAGs, reducing data latency and providing high-integrity insights for C-Level decision-making.
+* **AI Integration:** Pioneer implementation of Vector Databases (Oracle 23ai / pgvector) for semantic search and conversational AI pipelines in corporate environments.
 
 ---
 
-## 📬 Let's talk
+## 📐 Philosophy
 
-If you're working on **AI products**, **data culture**, or **retail intelligence** — I'm always up for a good conversation.
+* **Practical Stoicism:** Focus on the controllable; biased for action under uncertainty.
+* **Strategy before Syntax:** Code is a commodity; solving the business problem is the real asset.
+* **Scalability:** I scale people before I scale systems.
 
-> *Curitiba · Open to remote collaboration, travels and change city.*
+---
+
+## 📬 Let's Connect
+
+Currently focused on building professional autonomy through proprietary products and strategic partnerships. If you are talking about **Applied AI**, **Data Culture**, or **Retail Media**, let’s start a conversation.
+
+> **Curitiba, Brazil** | Open to remote collaboration or relocating for high-impact projects.
