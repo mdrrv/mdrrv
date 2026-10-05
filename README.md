@@ -80,7 +80,12 @@ I select my stack based on efficiency and delivery power, not hype:
 * **Technical Highlight:** LLM orchestration for real-time sentiment analysis and automated executive dashboards.
 * **Stack:** Django · Django Ninja · Next.js · Gemini
 
-### 🧩 **[Mindata](https://www.mindata.com.br)**
+### 🧩 **[Mindata](https://www.mindata.com.br)** · Data Monetization
+*Brazilian Company Intelligence (CNPJ)*
+* **The Problem:** Official Receita Federal company data is public, but scattered, hard to query, and says little about how companies and partners connect.
+* **The Solution:** A platform covering **28M+ companies and 27M partners**, with free company pages and a paid layer for full corporate relationship networks, partner profiles, and due diligence reports.
+* **Technical Highlight:** A local Polars ETL that publishes the full Receita Federal base to production, full-text search with Meilisearch, interactive 2D/3D ownership graphs, and credit-based monetization with Mercado Pago and Stripe.
+* **Stack:** Next.js · FastAPI · PostgreSQL · Redis · Meilisearch · Polars · Docker
 
 ---
 
