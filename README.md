@@ -1,8 +1,10 @@
 # 🚀 Vinicius | Data Intelligence & AI Products
 
+**Data Intelligence Manager & Tech Lead** — bridging business strategy and technical execution.
+
 > **"Invicto."** — Turning noise into strategy, and data into market-ready products.
 
-Based in **Curitiba, PR 🇧🇷**, I operate at the intersection of **Data Engineering, LLMOps, and Product Thinking**. My focus is leading high-performance teams and building AI architectures that don't just work — they scale businesses.
+Based in **Curitiba, PR 🇧🇷**, I operate at the intersection of **Business, Data Engineering, LLMOps, and Product Thinking**. I speak both languages: I translate business goals into data and AI solutions, and translate technical work back into revenue, efficiency, and decisions the C-level can act on. My focus is leading high-performance teams and building AI architectures that don't just work — they scale businesses.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
@@ -20,6 +22,7 @@ Based in **Curitiba, PR 🇧🇷**, I operate at the intersection of **Data Engi
 
 My work is driven by technical maturity paired with an executive mindset:
 
+* **Business ↔ Tech Bridge:** Connecting commercial, operations, finance, and expansion teams with data and engineering — turning business pain points into prioritized roadmaps, and data products into measurable P&L impact.
 * **Data Strategy & Leadership:** Implementing data-driven cultures from scratch, scaling teams through servant leadership, and establishing data governance.
 * **AI Product Engineering:** Developing AI-native products beyond simple API wrappers — specializing in **LLMOps, RAG (Retrieval-Augmented Generation)**, and real-time sentiment analysis.
 * **Modern Data Stack:** Evolving legacy architectures into modern ecosystems using Data Mesh, containerization, and robust orchestration.
