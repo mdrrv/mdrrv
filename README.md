@@ -81,19 +81,14 @@ I select my stack based on efficiency and delivery power, not hype:
 
 ## 🏗️ Side Ventures
 
-### 🗣️ **Dialoga AI** — B2B SaaS
+### 🗣️ **[Dialoga AI](https://dialoga.digital)** — B2B SaaS
 *Conversational Climate Surveys*
 * **The Problem:** Static surveys lead to low engagement and superficial data.
 * **The Solution:** An AI agent (**Laura**) that conducts empathetic interviews via voice or text.
 * **Technical Highlight:** LLM orchestration for real-time sentiment analysis and automated executive dashboards.
 * **Stack:** Django · Django Ninja · Next.js · Gemini
 
-### 📊 **ShelfRay** — Retail Intelligence
-*Marketplace Audit Tool*
-* **The Problem:** Invisible cannibalization between paid media and organic results on Amazon and Mercado Livre.
-* **The Solution:** Share of Search tooling and Retail Media auditing.
-* **Technical Highlight:** Large-scale web scraping with Scrapy and vector search for assortment comparison.
-* **Stack:** FastAPI · Scrapy · pgvector · Streamlit
+### 🧩 **[Mindata](https://www.mindata.com.br)**
 
 ---
 
