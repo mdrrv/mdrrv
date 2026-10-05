@@ -79,4 +79,7 @@ I select my stack based on efficiency and delivery power, not hype:
 
 Currently focused on building professional autonomy through proprietary products and strategic partnerships. If you're talking about **Applied AI**, **Data Culture**, or **Retail Media**, let's start a conversation.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-madureirav-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madureirav/)
+[![Email](https://img.shields.io/badge/Email-vinicius.madureira%40mindata.com.br-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vinicius.madureira@mindata.com.br)
+
 > 📍 **Curitiba, Brazil** | Open to remote collaboration or relocating for high-impact projects.
