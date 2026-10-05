@@ -1,10 +1,10 @@
 # 🚀 Vinicius Madureira | GTM, Data & AI
 
-**Head of Go-To-Market & Data @ Solvis** — bridging business strategy and technical execution.
+**Head of Go-To-Market & Data at Solvis**, bridging business strategy and technical execution.
 
-> **"Invicto."** — Turning noise into strategy, and data into market-ready products.
+> **"Invicto."** Turning noise into strategy, and data into market-ready products.
 
-Based in **Curitiba, PR 🇧🇷**, I came up through data and never left it — what changed is what I use it for. Today it's less about reporting what happened and more about **deciding where to play, what to sell, and which motion actually converts**.
+Based in **Curitiba, PR 🇧🇷**, I came up through data and never left it. What changed is what I use it for. Today it's less about reporting what happened and more about **deciding where to play, what to sell, and which motion actually converts**.
 
 I operate at the intersection of **Business, Revenue, Data, and AI**: I translate commercial goals into data and AI solutions, and translate technical work back into revenue, retention, and decisions leadership can act on.
 
@@ -23,7 +23,7 @@ I operate at the intersection of **Business, Revenue, Data, and AI**: I translat
 
 ## 🧠 Core Expertise
 
-* **Business ↔ Tech Bridge:** Partnering with CX, Marketing, Sales, Planning, Commercial, and Finance to turn business pain points into prioritized data and AI roadmaps — and data products into measurable P&L impact.
+* **Business ↔ Tech Bridge:** Partnering with CX, Marketing, Sales, Planning, Commercial, and Finance to turn business pain points into prioritized data and AI roadmaps, and data products into measurable P&L impact.
 * **Go-To-Market & RevOps:** Market segmentation, coverage models, account tiering and health scoring, NRR and revenue architecture, and new product launches for B2B SaaS.
 * **Data Strategy & Leadership:** Building data functions from scratch, scaling teams into specialized roles, and establishing governance with a single source of truth for critical KPIs.
 * **Applied AI & Data Products:** Operational AI agents, RAG pipelines, predictive models (demand, pricing, customer behavior), and self-service internal data products.
@@ -33,35 +33,27 @@ I operate at the intersection of **Business, Revenue, Data, and AI**: I translat
 
 ## 💼 Career Journey
 
-### **Solvis** — Head of Go-To-Market & Data · *Jul 2026 – Present*
-Customer satisfaction research company (hardware kiosks, multichannel SaaS, and consulting). Two mandates, one owner: GTM (segmentation, coverage, new offers, retention and expansion) and Data, Analytics & Product.
+### Head of Go-To-Market & Data at **Solvis**
+*Jul 2026 to present*
+
+Solvis is a customer satisfaction research company that sells through hardware kiosks, multichannel SaaS, and consulting. I own two mandates: GTM (segmentation, coverage, new offers, retention, and expansion) and Data, Analytics & Product.
+
 * Rebuilt the view of a **300+ account base** into tiers with distinct coverage models and playbooks, triggered by a weighted health score.
-* Designed the revenue architecture behind a **40% growth goal** — **115% NRR** on the installed base, the rest from new logos — broken into monthly targets for new revenue, expansion, and churn ceiling.
+* Designed the revenue architecture behind a **40% growth goal**, with **115% NRR** on the installed base and the rest from new logos, broken into monthly targets for new revenue, expansion, and churn ceiling.
 * Built the commercial intelligence the company lacked: **75 competitors mapped**, TAM/SAM/SOM sized and turned into GTM plays.
 * Set up the experimentation front for new products, starting with a **retail media pilot**.
 * Designed and chair a **weekly revenue committee**: one number (Net MRR), a named owner per area, and leading indicators everyone explains out loud.
 
-### **market4u** — Senior Data Intelligence & Data Product Manager · *May 2025 – Jul 2026*
-Strategic partner to Planning, Commercial, and Finance.
+### Senior Data Intelligence & Data Product Manager at **market4u**
+*May 2025 to Jul 2026*
+
+I worked as a strategic partner to Planning, Commercial, and Finance.
+
 * Led multidisciplinary squads (Engineering, Data Science, Pricing & BSA) with business-impact-driven prioritization, supporting **55% growth in forecasted GMV** in the first year.
 * Redesigned the team structure (RACI, growth plans), scaling from **4 to 10 professionals** in specialized roles within 6 months.
-* Rebuilt data governance and the BI stack on **Databricks** — a single source of truth for Planning, Commercial, and Finance.
+* Rebuilt data governance and the BI stack on **Databricks**, creating a single source of truth for Planning, Commercial, and Finance.
 * Deployed **operational AI agents** with RAG-based vectorization; shipped ML models (demand forecasting, pricing, customer behavior) influencing **80% of service revenue**.
 * Built internal data products and web apps for self-service analytics, cutting support tickets by **90%**.
-
-### **Akiyama Group** — Data Operation Manager · *Jun 2024 – May 2025*
-* Founded the data area from zero: infrastructure, processes, and team.
-* Delivered commercial performance BI, RFM and behavioral segmentation, and seasonality modeling to steer sales strategy.
-
-### **Olist** — Business & Data · *Sep 2022 – Jun 2024*
-* Led a contribution-margin validation pipeline for each sales operation and managed partner and marketplace channels.
-* Built Python automation, web scraping, and Power BI dashboards on AWS data to support commercial intelligence and global strategy.
-
-### Earlier
-* **MadeiraMadeira** — Operations Analyst *(2022)*: KPI dashboards and management reporting.
-* **Proxys Group** — BI Analyst & Marketplace/Data Analyst *(2019 – 2022)*: founded a Data Intelligence Hub, built a data lake, led squads as OKR leader, and ran marketplace sales and buy-box analysis.
-* **In-Haus** — Process & Data Analyst *(2019)*: process automation, ETL, and Power BI reporting.
-* **Motored Consultoria** — Process Analyst *(2016 – 2019)*: process redesign across purchasing, finance, logistics, and customer service; led ERP and e-commerce implementations.
 
 ---
 
@@ -81,7 +73,7 @@ I select my stack based on efficiency and delivery power, not hype:
 
 ## 🏗️ Side Ventures
 
-### 🗣️ **[Dialoga AI](https://dialoga.digital)** — B2B SaaS
+### 🗣️ **[Dialoga AI](https://dialoga.digital)** · B2B SaaS
 *Conversational Climate Surveys*
 * **The Problem:** Static surveys lead to low engagement and superficial data.
 * **The Solution:** An AI agent (**Laura**) that conducts empathetic interviews via voice or text.
@@ -103,7 +95,7 @@ I select my stack based on efficiency and delivery power, not hype:
 
 ## 🎓 Education & Certifications
 
-* **Data Science** — Universidade Positivo *(2024 – 2025)*
+* **Data Science**, Universidade Positivo *(2024 to 2025)*
 * **Scrum Foundation Professional Certificate (SFPC)**
 
 ---
